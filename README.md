@@ -1,2 +1,2 @@
 # demo-delta
-just to learn about git hub
+just to learn about git & git hub.
